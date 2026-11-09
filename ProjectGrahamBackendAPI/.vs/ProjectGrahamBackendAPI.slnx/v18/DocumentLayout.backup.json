@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|c:\\szko\u0142a\\projekty\\projectgraham-website\\projectgrahambackendapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|c:\\szko\u0142a\\projekty\\projectgraham-website\\projectgrahambackendapi\\projectgrahambackendapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|solutionrelative:projectgrahambackendapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|c:\\szko\u0142a\\projekty\\projectgraham-website\\projectgrahambackendapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|c:\\szko\u0142a\\projekty\\projectgraham-website\\projectgrahambackendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|c:\\szko\u0142a\\projekty\\projectgraham-website\\projectgrahambackendapi\\controllers\\workoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|solutionrelative:controllers\\workoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|c:\\szko\u0142a\\projekty\\projectgraham-website\\projectgrahambackendapi\\controllers\\journalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|solutionrelative:controllers\\journalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|c:\\szko\u0142a\\projekty\\projectgraham-website\\projectgrahambackendapi\\controllers\\goalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|solutionrelative:controllers\\goalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|c:\\szko\u0142a\\projekty\\projectgraham-website\\projectgrahambackendapi\\controllers\\feedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|solutionrelative:controllers\\feedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|c:\\szko\u0142a\\projekty\\projectgraham-website\\projectgrahambackendapi\\models\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|solutionrelative:models\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-08T19:43:04.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T19:32:55.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkoutsController.cs",
+              "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Controllers\\WorkoutsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WorkoutsController.cs",
+              "ToolTip": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Controllers\\WorkoutsController.cs",
+              "RelativeToolTip": "Controllers\\WorkoutsController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAIwIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T19:32:43.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JournalController.cs",
+              "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Controllers\\JournalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JournalController.cs",
+              "ToolTip": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Controllers\\JournalController.cs",
+              "RelativeToolTip": "Controllers\\JournalController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T19:32:24.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoalsController.cs",
+              "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Controllers\\GoalsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GoalsController.cs",
+              "ToolTip": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Controllers\\GoalsController.cs",
+              "RelativeToolTip": "Controllers\\GoalsController.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAIwMIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T19:32:01.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FeedController.cs",
+              "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Controllers\\FeedController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeedController.cs",
+              "ToolTip": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Controllers\\FeedController.cs",
+              "RelativeToolTip": "Controllers\\FeedController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwOMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T19:31:28.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAswMcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T19:29:56.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Models\\Entities.cs",
+              "RelativeDocumentMoniker": "Models\\Entities.cs",
+              "ToolTip": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Models\\Entities.cs",
+              "RelativeToolTip": "Models\\Entities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T19:28:34.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectGrahamBackendAPI.csproj",
+              "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\ProjectGrahamBackendAPI.csproj",
+              "RelativeDocumentMoniker": "ProjectGrahamBackendAPI.csproj",
+              "ToolTip": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\ProjectGrahamBackendAPI.csproj",
+              "RelativeToolTip": "ProjectGrahamBackendAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-08T19:26:39.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

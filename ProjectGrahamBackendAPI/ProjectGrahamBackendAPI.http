@@ -1,0 +1,6 @@
+@ProjectGrahamBackendAPI_HostAddress = http://localhost:5063
+
+GET {{ProjectGrahamBackendAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

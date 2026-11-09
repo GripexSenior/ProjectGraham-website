@@ -1,0 +1,8 @@
+{
+  "name": "ProjectGraham — Social Self-Development & Habit Hub",
+  "description": "Współdzielona platforma rozwoju osobistego, celów miesięcznych, wieczornego dziennika, planera treningowego oraz tablicy znalezisk dla zamkniętej grupy przyjaciół.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
