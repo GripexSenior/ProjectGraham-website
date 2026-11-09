@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|c:\\szko\u0142a\\projekty\\projectgraham-website\\projectgrahambackendapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|c:\\szko\u0142a\\projekty\\projectgraham-website\\projectgrahambackendapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|c:\\szko\u0142a\\projekty\\projectgraham-website\\projectgrahambackendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|c:\\szko\u0142a\\projekty\\projectgraham-website\\projectgrahambackendapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|c:\\szko\u0142a\\projekty\\projectgraham-website\\projectgrahambackendapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|c:\\szko\u0142a\\projekty\\projectgraham-website\\projectgrahambackendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D5F8CFF-3CBA-41DC-4B77-B686569DD25B}|ProjectGrahamBackendAPI.csproj|c:\\szko\u0142a\\projekty\\projectgraham-website\\projectgrahambackendapi\\controllers\\workoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +54,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-09T11:29:06.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-09T11:28:41.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -62,19 +96,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAswEAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAcwFoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-08T19:32:55.539Z"
+              "WhenOpened": "2026-11-08T19:32:55.539Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "WorkoutsController.cs",
               "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Controllers\\WorkoutsController.cs",
               "RelativeDocumentMoniker": "Controllers\\WorkoutsController.cs",
@@ -86,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "JournalController.cs",
               "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Controllers\\JournalController.cs",
               "RelativeDocumentMoniker": "Controllers\\JournalController.cs",
@@ -98,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "GoalsController.cs",
               "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Controllers\\GoalsController.cs",
               "RelativeDocumentMoniker": "Controllers\\GoalsController.cs",
@@ -110,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FeedController.cs",
               "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Controllers\\FeedController.cs",
               "RelativeDocumentMoniker": "Controllers\\FeedController.cs",
@@ -122,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -135,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Entities.cs",
               "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\Models\\Entities.cs",
               "RelativeDocumentMoniker": "Models\\Entities.cs",
@@ -147,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ProjectGrahamBackendAPI.csproj",
               "DocumentMoniker": "C:\\Szko\u0142a\\Projekty\\ProjectGraham-website\\ProjectGrahamBackendAPI\\ProjectGrahamBackendAPI.csproj",
               "RelativeDocumentMoniker": "ProjectGrahamBackendAPI.csproj",
@@ -155,8 +190,7 @@
               "RelativeToolTip": "ProjectGrahamBackendAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-08T19:26:39.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-08T19:26:39.819Z"
             }
           ]
         },

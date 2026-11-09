@@ -87,7 +87,8 @@ namespace ProjectGrahamBackendAPI
             app.UseAuthorization();
             app.MapControllers();
 
-            await app.RunAsync("http://localhost:5000");
+            var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+            await app.RunAsync($"http://0.0.0.0:{port}");
         }
     }
 }

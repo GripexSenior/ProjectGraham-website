@@ -56,6 +56,11 @@ export default function App() {
 
   useEffect(() => {
     loadSnapshot();
+    const interval = window.setInterval(() => {
+      loadSnapshot();
+    }, 8000);
+
+    return () => window.clearInterval(interval);
   }, [loadSnapshot]);
 
   const showTransientNotification = (msg: string) => {
