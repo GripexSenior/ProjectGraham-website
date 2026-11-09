@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjectGrahamBackendAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b46743825e166d63e018347d46ba39eaa774bb14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd7ba965b95fcd64e7a82c71a14e828e33187c7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjectGrahamBackendAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjectGrahamBackendAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

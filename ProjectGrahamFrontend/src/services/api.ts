@@ -25,9 +25,7 @@ export const SHARED_GROUP_ID = 'grp-wataha-2026';
 const STORAGE_KEY = 'tribehub_db_v2_clean';
 
 export const CSHARP_API_BASE_URL: string =
-  (typeof import.meta !== 'undefined' &&
-    (import.meta as unknown as { env?: Record<string, string> }).env?.VITE_API_BASE_URL) ||
-  'http://localhost:5000/api';
+  'https://project-graham-api.onrender.com/api';
 
 let useCsharpBackend: boolean =
   typeof import.meta !== 'undefined' &&
